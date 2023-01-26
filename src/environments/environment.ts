@@ -3,27 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  //Credenciales Pame:
-  firebaseConfig: {
-    apiKey: 'AIzaSyBPb-kn7aywGjJjE9Y3mteurRy2JySACes',
-    authDomain: 'tut-firebase-simon-grimm.firebaseapp.com',
-    projectId: 'tut-firebase-simon-grimm',
-    storageBucket: 'tut-firebase-simon-grimm.appspot.com',
-    messagingSenderId: '755235628573',
-    appId: '1:755235628573:web:faf798e997f7c3f44f48f4',
-    measurementId: 'G-0SMVYVMG3G'
-
-    //Credenciales Domenico:
-  //  firebaseConfig : {
-  //   apiKey: "AIzaSyAQaFhilDGnUYpO5MhHZb5pQad8ARkZ8QA",
-  //   authDomain: "login-proyecto-aplicaciones.firebaseapp.com",
-  //   projectId: "login-proyecto-aplicaciones",
-  //   storageBucket: "login-proyecto-aplicaciones.appspot.com",
-  //   messagingSenderId: "82068058610",
-  //   appId: "1:82068058610:web:2f3b0ec820191915e67b6b"
-
-  },
-  production: false
+   firebaseConfig : {
+  apiKey: "AIzaSyAqCYpTLiyvQWbQavKZuZD51Leni-2rXR8",
+  authDomain: "appbsas.firebaseapp.com",
+  projectId: "appbsas",
+  storageBucket: "appbsas.appspot.com",
+  messagingSenderId: "85724318545",
+  appId: "1:85724318545:web:fb55028be6ac9decb42170"
+},
+  production: true
 };
 
 /*
